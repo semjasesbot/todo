@@ -24,6 +24,9 @@
   - Include severity ratings and descriptions
   - Filter and sort options for results
 
+### Anti-Phishing/NSFW/NSFW SELLING BOTS/CRYPTO IMG SCAM
+- [ ] Implement Anti-Phishing using multiple methods.
+
 ## Future Additions
 - [ ] Additional monitoring sources
 - [ ] Historical data tracking
